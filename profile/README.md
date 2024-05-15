@@ -1,5 +1,6 @@
 # Welcome to Aptovet
 ### 𝚈𝚘𝚞𝚛 𝙿𝚛𝚎𝚖𝚒𝚎𝚛 𝙸𝚃 𝙲𝚘𝚗𝚜𝚞𝚕𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝙲𝚕𝚘𝚞𝚍 𝚂𝚎𝚛𝚟𝚒𝚌𝚎𝚜 𝙿𝚊𝚛𝚝𝚗𝚎𝚛!
+<hr></hr>
 
 At 𝐚𝐩𝐭𝐨𝐯𝐞𝐭, we bring over 6 years of industry experience to deliver top-notch IT solutions that drive efficiency and innovation. Our team of expert Cloud Engineers, DevOps professionals, CI/CD specialists, Kubernetes experts, and Full Stack Software Developers is ready to help you navigate the complexities of the digital world.
 
