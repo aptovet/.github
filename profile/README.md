@@ -3,7 +3,7 @@
 <hr>
 <br>
 
-At 𝐚𝐩𝐭𝐨𝐯𝐞𝐭, we bring over 6 years of industry experience to deliver top-notch IT solutions that drive efficiency and innovation. Our team of expert Cloud Engineers, DevOps professionals, CI/CD specialists, Kubernetes experts, and Full Stack Software Developers is ready to help you navigate the complexities of the digital world.
+At 𝐚𝐩𝐭𝐨𝐯𝐞𝐭, we bring over 8 years of industry experience to deliver top-notch IT solutions that drive efficiency and innovation. Our team of expert Cloud Engineers, DevOps professionals, CI/CD specialists, Kubernetes experts, and Full Stack Software Developers is ready to help you navigate the complexities of the digital world.
 
 ## Our Mission
 
